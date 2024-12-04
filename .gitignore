@@ -1,2 +1,4 @@
-ResaleFlatPrices/.venv
-ResaleFlatPrices/secret.py
+.venv
+config.yaml
+datasets
+__pycache__
